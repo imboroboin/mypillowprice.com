@@ -6,23 +6,8 @@
     "feed_url": "http://mypillowprice.com/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Samsunnar Sathi"
+        "name": "Sathi"
     },
     "items": [
-        {
-            "id": "http://mypillowprice.com/best-pregnancy-pillow.html",
-            "url": "http://mypillowprice.com/best-pregnancy-pillow.html",
-            "title": "best pregnancy pillow",
-            "summary": "This pegnancy pillow is the best in terms of comfort and price.",
-            "content_html": "This pegnancy pillow is the best in terms of comfort and price. You will love the touch of this fabric.",
-            "image": "http://mypillowprice.com/media/posts/1/",
-            "author": {
-                "name": "Samsunnar Sathi"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-01-09T22:42:26+06:00",
-            "date_modified": "2019-01-09T22:42:26+06:00"
-        }
     ]
 }
